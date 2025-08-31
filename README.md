@@ -141,7 +141,7 @@
 
   <h2>Developer Info</h2>
   <ul>
-    <li><strong>Developer:</strong> Engr. Tufail Mabood, MSC STRUCTURE UET PESHAWAR</li>
+    <li><strong>Developer:</strong> Engr. Tufail Mabood</li>
     <li><strong>Contact:</strong> <a href="https://wa.me/+923440907874">WhatsApp</a></li>
     <li><strong>Note:</strong> If you need help with statistical analysis or data preprocessing, feel free to reach out.</li>
   </ul>
